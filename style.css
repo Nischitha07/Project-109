@@ -1,0 +1,54 @@
+body{
+    background-color: orange
+}
+#case
+{
+    height:110px;
+    width:120px;
+}
+.container
+{
+    
+    border: black 2px solid;
+    border-radius: 20px;
+    box-shadow: 10px 5px 18px white;
+
+}
+
+.div_test
+{
+	background: #ffffff;
+	padding: 30px;
+    border-radius: 20px;
+    border:2px;
+	width: 50%;
+	display: inline-block;
+	box-shadow: 5px 5px 18px grey;
+}
+b
+{
+    color: purple;
+    font-size: 15px;
+}
+
+.result_div
+{
+	text-align: center;
+	background: #dedddd;
+	border-radius: 20px;
+    padding: 10px;
+    border: black 1px solid;
+   
+}
+.buy
+{
+    color: rgb(4, 4, 194);
+    font-size: 15px ;
+}
+.img
+{
+    height: 400px;
+    width:500px;
+    border: black 3px solid;
+    border-radius: 20px;
+}
